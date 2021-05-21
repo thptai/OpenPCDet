@@ -7,5 +7,6 @@ __all__ = {
     'VFETemplate': VFETemplate,
     'MeanVFE': MeanVFE,
     'PillarVFE': PillarVFE,
-    'ImageVFE': ImageVFE
+    'ImageVFE': ImageVFE,
+    'PitaVFE': PitaVFE
 }
